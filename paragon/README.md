@@ -1,1 +1,1 @@
-![paragon software][paragon-software.png]
+![paragon software][./paragon-software.png]
