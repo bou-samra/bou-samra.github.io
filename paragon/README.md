@@ -1,1 +1,1 @@
-![alt text](/paragon/paragon-software.png)
+![alt text](https://www.bou-samra.org/paragon/assets/paragon-software.png)
