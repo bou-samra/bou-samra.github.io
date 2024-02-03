@@ -1,1 +1,1 @@
-![alt text](https://github.com/bou-samra/bou-samra.github.io/blob/main/paragon/paragon-software.png)
+![alt text](./paragon/paragon-software.png)
