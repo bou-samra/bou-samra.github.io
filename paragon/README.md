@@ -1,1 +1,1 @@
-![paragon software][./paragon-software.png]
+![alt text](./paragon-sfoware.png "paragon software")
