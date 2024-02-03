@@ -1,1 +1,1 @@
-![alt text](./paragon/paragon-software.png)
+![alt text](/paragon/paragon-software.png)
