@@ -2,5 +2,5 @@
 **paragon** <em>/păr′ə-gŏn″, -gən/</em>  
 > A model of excellence or perfection of a kind; a peerless example. 
 
-**About**
+**About**</br>
 Paragon was establishedin 1992.
